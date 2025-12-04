@@ -201,8 +201,8 @@
     <text name="CP_vehicle_setting_lowerImplementEarly_late" text="Ritarda"/>
     <text name="CP_vehicle_setting_turnOnField_title" text="Svolta sul campo"/>
     <text name="CP_vehicle_setting_turnOnField_tooltip" text="Svolta solo sul campo. Non è possibile con alcuni attrezzi"/>
-    <text name="CP_vehicle_setting_restartCourseAtEnd_title" text="Restart course at the end"/>
-    <text name="CP_vehicle_setting_restartCourseAtEnd_tooltip" text="Restart the fieldwork course at the 1st waypoint."/>
+    <text name="CP_vehicle_setting_restartCourseAtEnd_title" text="Riavvia il percorso alla fine"/>
+    <text name="CP_vehicle_setting_restartCourseAtEnd_tooltip" text="Riavvia il percorso di lavoro dal primo punto"/>
     <text name="CP_vehicle_setting_avoidFruit_title" text="Evita il raccolto"/>
     <text name="CP_vehicle_setting_avoidFruit_tooltip" text="L'IA cercherà di evitare di guidare sul raccolto"/>
     <text name="CP_vehicle_setting_toolOffsetX_title" text="Correzione oriz."/>
